@@ -31,8 +31,7 @@ This project explores the implementation and comparison of two AI approaches, **
 - **Programming Languages**: Python
 - **Libraries**: PyTorch, NumPy, Gym-Super-Mario-Bros
 
-## How to Use
+## Reference
+The Baseline used for this DQN implementation is from https://github.com/xiaoyoubilibili/gym_super_mario.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/super-mario-ai.git
+
